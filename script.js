@@ -10,7 +10,7 @@ var confirmLowercase;
 // Special characters 
 character = ["!", "#", "$", "%", "&", "'", "(", ")", "*", "+", ",", "-", ".", "/", "\:", "\;", " < ", "=", " > ", " ? ", "@", "[", "\\", "]", " ^ ", "_", "`", "{", "|", "}", "~"];
 
-// Numeric characters
+// Number characters
 number = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 // Alphabetical characters Uppercase and Lowercase
