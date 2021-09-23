@@ -32,11 +32,11 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
     * This will send the user a series of prompts and confirms
     * After user data is collected, a random password will be generated using Javascript
 
-# ![Screenshot-1](.\Assets\Images\S1.png)
+# ![Screenshot-1](./Assets/Images/S1.png)
     
-# ![Screenshot-2](.\Assets\Images\S2.png)
+# ![Screenshot-2](./Assets/Images/S2.png)
     
-# ![Screenshot-3](.\Assets\Images\S3.png)
+# ![Screenshot-3](./Assets/Images/S3.png)
 
 ### Code and Project Requirements: 
 * The user will be prompted to choose from the following password criteria: 8 and 128 characters
